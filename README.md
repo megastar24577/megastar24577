@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanh - aka megastar24577</h1>
+<h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">I'm a Active Developer, Student of FPT University - HCMC!!</h3>
 
 <h3 align="left">Connect with me:</h3>
